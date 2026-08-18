@@ -7,7 +7,7 @@
   - GUIONHABLADO.mp3 → audio generado con ElevenLabs
 
 /output
-  - tramov_vocero_final.mp4 → video final con música integrada en CapCut
+  - persojeia-tramov.mp4 → [Ver video final en Google Drive](https://drive.google.com/file/d/1QR8XKmaP0w4aNxjgvuFDkzHPw9fgOcvl/view?usp=sharing)
 
 ---
 
